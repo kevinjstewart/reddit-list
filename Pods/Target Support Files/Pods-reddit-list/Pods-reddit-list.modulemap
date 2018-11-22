@@ -1,0 +1,6 @@
+framework module Pods_reddit_list {
+  umbrella header "Pods-reddit-list-umbrella.h"
+
+  export *
+  module * { export * }
+}
